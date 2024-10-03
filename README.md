@@ -28,11 +28,10 @@ L'outil MalwareAnalyse est un analyseur de malware basé sur Python.
 # Installation
 
 - Dans un premier temps, il faut clone le github.
-- Installer la librairie Yara : ``pip install yura``
 - En suite, il faut modifier dans les fichiers "malwares_index.yar" et "ransomware_index.yar" le chemin vers le fichiers ``malware`` et ``ransomware``. *(Possibilité de faire un rechercher remplacer)*
 - Vous pouvez également customiser le ``background.jpg`` qui est le fond de l'interface GUI du script.
 
-Pour finir, vous n'avez qu'à lancer le script ``malware_analyse_gui.py``.
+Pour finir, vous n'avez qu'à lancer l'exécutable ``malware_analyse_gui.exe``.
 
 **Enjoy ! :D**
 
